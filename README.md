@@ -1,6 +1,6 @@
 # Apparel Production Monitoring Application (APMA)
 
-APMA is designed to streamline various processes within the company, enhancing efficiency and automating tasks related to apparel production. The system includes several modules, each serving a specific purpose, tailored to different user roles.
+APMA is designed to enhance efficiency and automate tasks related to apparel production.
 
 ## Features
 
